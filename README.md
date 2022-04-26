@@ -7,3 +7,4 @@ Sample Image
 ![footer-simple-dark](https://user-images.githubusercontent.com/53443872/134805927-b84008e5-8ae1-41c8-8155-b6f6bf8f5832.png)
 ![footer-simple-light](https://user-images.githubusercontent.com/53443872/134805932-5837dde0-87a2-4f28-8bbb-de9e49465933.png)
 
+[resum.pdf](https://github.com/aman-raza/img/files/8565782/resum.pdf)
