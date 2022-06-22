@@ -8,3 +8,5 @@ Sample Image
 ![footer-simple-light](https://user-images.githubusercontent.com/53443872/134805932-5837dde0-87a2-4f28-8bbb-de9e49465933.png)
 
 [resum.pdf](https://github.com/aman-raza/img/files/8565782/resum.pdf)
+![lc-prepost](https://user-images.githubusercontent.com/53443872/175014672-e3b20254-bb28-49f0-a2f9-cfe3d0929c41.jpg)
+
