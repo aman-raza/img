@@ -7,7 +7,7 @@ Sample Image
 ![footer-simple-dark](https://user-images.githubusercontent.com/53443872/134805927-b84008e5-8ae1-41c8-8155-b6f6bf8f5832.png)
 ![footer-simple-light](https://user-images.githubusercontent.com/53443872/134805932-5837dde0-87a2-4f28-8bbb-de9e49465933.png)
 
-[resu![WhatsApp Image 2023-02-13 at 9 38 41 PM](https://user-images.githubusercontent.com/53443872/218510711-98757dce-3199-4887-85c3-e1b192817a77.jpeg)
+
 m.pdf](https://github.com/aman-raza/img/files/8565782/resum.pdf)
 ost](https://user-images.githubusercontent.com/53443872/175014672-e3b20254-bb28-49f0-a2f9-cfe3d0929c41.jpg)
 
